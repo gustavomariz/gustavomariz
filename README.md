@@ -44,7 +44,7 @@ Feel free to explore my repositories and connect with me on LinkedIn!
 ## Contact
 
 - 📧 Email: gustavo.vmariz@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-mariz)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavomariz)
 
 Thank you for visiting my GitHub profile!
 
